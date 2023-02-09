@@ -1,3 +1,3 @@
-# Turtle_Liver_Organoids
+# Turtle_Hepatic_Organoids
 Raw RNA-seq data from turtle hepatic organoids and tissues. 
 Samples from bulk mRNA sequencing and single-nuclei sequencing are available.
